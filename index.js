@@ -1,0 +1,1 @@
+pm.console.print("hello")
